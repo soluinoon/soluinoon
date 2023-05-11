@@ -14,8 +14,6 @@ Github 레포지터리는 제 부족한 공부 기록이며, 모든 코드에는
 
 감사합니다.
 
-김지홍 올림
-
 <!--
 **soluinoon/soluinoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
