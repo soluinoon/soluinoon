@@ -5,8 +5,8 @@
 - 🌱 제일 좋아하는 언어는 Java입니다.
 - 🤔 어떻게 쉽게 설명할지 고민하는걸 좋아합니다.
 - 🏃 취미는 달리기로, 현재 하프 마라톤을 준비하고 있습니다.
-  
-https://github.com/hel-gather
+
+
 
 <!--
 **soluinoon/soluinoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
